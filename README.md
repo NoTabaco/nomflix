@@ -27,3 +27,7 @@ Movie Discovery App with React and ES6
 - [ ] Collections Link
 - [ ] /collections Route
 - [ ] On TV Show, show seasons and creators
+
+# Preview:
+
+Try it on [netlify](https://happy-shannon-e7e93d.netlify.app/#/)
