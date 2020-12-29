@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://NoTabaco.github.io/nomflix",
+  "homepage": "https://happy-shannon-e7e93d.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
